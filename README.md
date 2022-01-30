@@ -1,2 +1,2 @@
 # az
-Azeri language for Nigez.com
+Submodule for Azeri language for Nigez.com
