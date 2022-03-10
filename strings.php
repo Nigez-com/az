@@ -214,5 +214,21 @@ return $strings = array(
     'interesting'=>'interesting',
     'Mission statement of Nigez.com'=>'Nigez.com-un missiya bəyanatı',
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Planetdəki hər bir türk xalqına daha çox nail olmaq, daha yaxşı inkişaf etmək, dilini, mədəniyyətini, adət-ənənələrini qoruyub saxlamaq üçün güc vermək',
+    
+    'How do you rate this article'=>'Bu məqaləni necə qiymətləndirirsiniz',
+    'Rating'=>'Reytinq',
+    'sign in'=>'daxil olun',
+    'Sign in to access system advanced features'=>'Sistemin qabaqcıl xüsusiyyətlərinə daxil olmaq üçün daxil olun',
+    'register'=>'qeydiyyatdan keçin',
+    'Close sign in form'=>'Giriş formasını bağlayın',
+    'Not registered?'=>'Qeydiyyatdan keçməmisiniz?',
+    'Create an account'=>'Hesap oluştur',
+    'sign out'=>'Hesab yarat',
+    'Please check input fields and try again'=>'Lütfən, daxiletmə sahələrini yoxlayın və yenidən cəhd edin',
+    'Close registration form'=>'Qeydiyyat formasını bağlayın',
+    'TDCoin address'=>'TDCoin ünvanı',
+    'password'=>'parol',
+    'signature'=>'imza',
+    'Already registered?'=>'Artıq qeydiyyatdan keçmisiniz?',
 );
 ?>
