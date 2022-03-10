@@ -230,5 +230,7 @@ return $strings = array(
     'password'=>'parol',
     'signature'=>'imza',
     'Already registered?'=>'Artıq qeydiyyatdan keçmisiniz?',
+    'internet'=>'internet',
+    'TATDig Turkic search engine'=>'TATDig Turkic axtarış sistemi',
 );
 ?>
