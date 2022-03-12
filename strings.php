@@ -232,5 +232,6 @@ return $strings = array(
     'Already registered?'=>'Artıq qeydiyyatdan keçmisiniz?',
     'internet'=>'internet',
     'TATDig Turkic search engine'=>'TATDig Turkic axtarış sistemi',
+    'TATDig true Turkic news results'=>'TATDig əsl Turkic xəbərlərinin nəticələri',
 );
 ?>
